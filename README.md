@@ -21,3 +21,13 @@ This Power BI report analyzes car-related data to identify trends, performance i
 
 ## Project Status
 Completed
+
+## Dashboard Preview
+
+![Page 1](https://github.com/subashree-kr-analytics/Car-Report-Analysis/blob/main/Report-Screeshots/Page1-Overview.png.png?raw=true)
+
+![Page 2]()
+
+![Page 3](image-link-3)
+
+![Page 4](image-link-4)
