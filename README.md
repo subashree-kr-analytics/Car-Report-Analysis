@@ -26,8 +26,8 @@ Completed
 
 ![Page 1](https://github.com/subashree-kr-analytics/Car-Report-Analysis/blob/main/Report-Screeshots/Page1-Overview.png.png?raw=true)
 
-![Page 2]()
+![Page 2](https://github.com/subashree-kr-analytics/Car-Report-Analysis/blob/main/Report-Screeshots/Page2-Executive%20Summary.png.png?raw=true)
 
-![Page 3](image-link-3)
+![Page 3](https://github.com/subashree-kr-analytics/Car-Report-Analysis/blob/main/Report-Screeshots/Page3-Analysis.png.png?raw=true)
 
-![Page 4](image-link-4)
+![Page 4](https://github.com/subashree-kr-analytics/Car-Report-Analysis/blob/main/Report-Screeshots/Page4-Insights.png.png?raw=true)
